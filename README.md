@@ -85,7 +85,6 @@ A curated list of awesome osTicket resources, plugins, tutorials and other nice 
 * [Professional Hosting](https://supportsystem.com) - No insatll necessary 
 
 ## @Mentions
-* [TheTownTalk - Article on Peter Rotich](http://www.thetowntalk.com/story/news/education/2017/04/20/meet-local-tech-entrepreneur-who-never-used-computer-until-college/100566224/) - Founder and CEO of Enhancesoft.
 * [Linux.com](https://www.linux.com/learn/osticket-help-desk-ticketing-done-right) - osTicket: Help Desk Ticketing Done Right.
 * [Test-Driven Conceptual Modelling case-study report](http://upcommons.upc.edu/bitstream/handle/2117/12369/osticket_report11.pdf?sequence=1) - from Universitat Politecnica De Catalulnya (in English).
 * [The Next Web - How to Build an Effective Heldesk](https://thenextweb.com/entrepreneur/2011/05/31/how/) - Article.
