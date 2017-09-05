@@ -8,8 +8,8 @@ A curated list of awesome osTicket resources, plugins, tutorials and other nice 
 * [GitHub repo](https://github.com/osTicket/osTicket) - Main repository.
 * [Main Website](http://osticket.com) - Main website.
 * [Core Plugins](https://github.com/osTicket/osTicket-plugins) - Plugins written by core developers.
-* [Forum](http://www.osticket.com/forum) - Forum hosted by osTicket.
-* [Wiki](http://osticket.com/wiki) - Installation advise, configuration tips and help.
+* [Forum](http://www.osticket.com/forum/) - Forum hosted by osTicket.
+* [Wiki](http://osticket.com/wiki/) - Installation advise, configuration tips and help.
 
 ## Download/Install files
 
@@ -40,7 +40,7 @@ A curated list of awesome osTicket resources, plugins, tutorials and other nice 
 *Modifies how the software works, without changing it.*
 
 * [Archiver](https://github.com/clonemeagain/osticket-plugin-archiver) - Archives tickets before delete, and allows for auto-pruning of old tickets.
-* [Attachment Preview](https://github.com/clonemeagain/attachment-preview) - Allows files attached to tickets to be embedded in the thread.
+* [Attachment Preview](https://github.com/clonemeagain/attachment_preview) - Allows files attached to tickets to be embedded in the thread.
 * [Autocloser](https://github.com/clonemeagain/plugin-autocloser) - Automatically closes open tickets.
 * [Mentioner](https://github.com/clonemeagain/osticket-plugin-mentioner) - Finds Staff mentions in a thread and add's them as collaborators to the ticket.
 * [Prevent Autoscroll](https://github.com/clonemeagain/osticket-plugin-preventautoscroll) - Stops the agent view from scrolling down to the last message in the thread.
