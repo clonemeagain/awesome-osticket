@@ -1,6 +1,7 @@
 # Awesome osTicket
 [![Build Status](https://travis-ci.org/clonemeagain/awesome-osticket.svg)](https://travis-ci.org/clonemeagain/awesome-osticket/)
-A curated list of awesome osTicket resources, plugins, tutorials and other nice things.
+
+*A curated list of awesome osTicket resources, plugins, tutorials and other nice things.*
 
 
 ## Official Resources
@@ -17,13 +18,13 @@ A curated list of awesome osTicket resources, plugins, tutorials and other nice 
 * [FAQ](http://osticket.com/faq) - Technical requirements etc.
 
 ## Translations/Language-Packs
-- Download into `/include/il8n` folder.
+*Download into `/include/il8n` folder.*
 
 * [Official List](http://osticket.com/download#linguas) - Select "language packs" for latest.
 * [Join the efforts](https://crowdin.com/project/osticket-official) - Help us translate osTicket for everyone.
 
 ## Plugins
-- Install into `/include/plugins` folder.
+*Install into `/include/plugins` folder.*
 
 ### Core Plugins
 *Developed by osTicket core developers.*
