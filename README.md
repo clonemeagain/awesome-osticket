@@ -9,7 +9,7 @@ A curated list of awesome osTicket resources, plugins, tutorials and other nice 
 * [Main Website](http://osticket.com) - Main website.
 * [Core Plugins](https://github.com/osTicket/osTicket-plugins) - Plugins written by core developers.
 * [Forum](http://www.osticket.com/forum/) - Forum hosted by osTicket.
-* [Wiki](http://osticket.com/wiki/) - Installation advise, configuration tips and help.
+* [Wiki](http://osticket.com/wiki/Main_Page) - Installation advise, configuration tips and help.
 
 ## Download/Install files
 
