@@ -72,7 +72,7 @@
 ## Provisioning
 
 * [Docker osticket/osticket](https://hub.docker.com/search/?isAutomated=0&isOfficial=0&page=1&pullCount=0&q=osticket&starCount=1) - Docker images.
-* [Vagrant](https://github.com/clonemeagain/osticket-vagrant) - Provides a development environment for working with osT
+* [Vagrant](https://github.com/clonemeagain/osticket-vagrant) - Provides a development environment for working with osTicket.
 
 ## Development Resources
 * [Fetch Note Plugin](https://github.com/bkonetzny/osticket-fetch-note) - Demonstrates ticket hooks and configs, makes a CURL request and adds a Note to a ticket thread.
