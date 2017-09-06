@@ -56,7 +56,7 @@
 
 
 ## Themes
-*May require modifications to osTicket core.*
+*Require modifications to osTicket core.*
 
 * [Bootstrap Free Theme](https://github.com/philbertphotos/osticket-bootstrap-theme) - Unofficial bootstrap theme for osticket 1.10.
 * [DMT Free Responsive for 1.9.12](http://osticket.com/forum/discussion/86735/dmt-free-responsive-theme-extended-basic-great-pumpkin-stable-1-0-for-osticket-1-9-12/p1) - Looks good. Awaiting upgrade to 1.10.
