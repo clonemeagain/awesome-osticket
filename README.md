@@ -42,6 +42,7 @@
 * [Archiver](https://github.com/clonemeagain/osticket-plugin-archiver) - Archives tickets before delete, and allows for auto-pruning of old tickets.
 * [Attachment Preview](https://github.com/clonemeagain/attachment_preview) - Allows files attached to tickets to be embedded in the thread.
 * [Autocloser](https://github.com/clonemeagain/plugin-autocloser) - Automatically closes open tickets.
+* [Field Radio Buttons](https://github.com/Micke1101/OSTicket-plugin-field-radiobuttons) - Enables the use of HTML form element Radio Buttons.
 * [Mentioner](https://github.com/clonemeagain/osticket-plugin-mentioner) - Finds Staff mentions in a thread and add's them as collaborators to the ticket.
 * [Prevent Autoscroll](https://github.com/clonemeagain/osticket-plugin-preventautoscroll) - Stops the agent view from scrolling down to the last message in the thread.
 * [Rewriter](https://github.com/clonemeagain/plugin-fwd-rewriter) - An osTicket plugin to rewrite incoming emails.
