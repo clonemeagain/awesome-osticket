@@ -44,9 +44,10 @@
 * [Autocloser](https://github.com/clonemeagain/plugin-autocloser) - Automatically closes open tickets.
 * [Field Radio Buttons](https://github.com/Micke1101/OSTicket-plugin-field-radiobuttons) - Enables the use of HTML form element Radio Buttons.
 * [Mentioner](https://github.com/clonemeagain/osticket-plugin-mentioner) - Finds Staff mentions in a thread and add's them as collaborators to the ticket.
+* [Multi LDAP Auth](https://github.com/philbertphotos/osticket-multildap-auth) - Plugin for multiple LDAP servers authentication and LDAP Sync.
 * [Prevent Autoscroll](https://github.com/clonemeagain/osticket-plugin-preventautoscroll) - Stops the agent view from scrolling down to the last message in the thread.
 * [Rewriter](https://github.com/clonemeagain/plugin-fwd-rewriter) - An osTicket plugin to rewrite incoming emails.
-* [Multi LDAP Auth](https://github.com/philbertphotos/osticket-multildap-auth) - Plugin for multiple LDAP servers authentication and LDAP Sync.
+
 
 ### Third Party Integration 
 
