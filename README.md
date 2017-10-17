@@ -86,7 +86,7 @@
 * [Commercial Support](http://osticket.com/commercial-support) - Get the most out of osTicket with tailored plans for your business.
 * [Customization](http://osticket.com/customization) - Modify the ticket system to meet your needs.
 * [Installation](http://osticket.com/professional-installation) - Implementation, training, migration.
-* [Professional Hosting](https://supportsystem.com) - No insatll necessary 
+* [Professional Hosting](https://supportsystem.com) - No install necessary.
 
 ## @Mentions
 * [Linux.com](https://www.linux.com/learn/osticket-help-desk-ticketing-done-right) - osTicket: Help Desk Ticketing Done Right.
