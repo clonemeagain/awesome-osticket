@@ -13,8 +13,8 @@
 
 ## Download/Install files
 
-* [Core Software v1.10](http://osticket.com/download/go?dl=osTicket-v1.10.zip) - Get the latest release.
-* [Core Software v1.9](http://osticket.com/download/go?dl=osTicket-v1.9.15.zip) - Get the last release.
+* [Core Software v1.10.1](http://osticket.com/download/go?dl=osTicket-v1.10.2.zip) - Get the latest release.
+* [Core Software v1.9.16](http://osticket.com/download/go?dl=osTicket-v1.9.16.zip) - Get the last release.
 * [FAQ](http://osticket.com/faq) - Technical requirements etc.
 
 ## Translations/Language-Packs
