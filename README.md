@@ -46,6 +46,7 @@
 * [Mentioner](https://github.com/clonemeagain/osticket-plugin-mentioner) - Finds Staff mentions in a thread and add's them as collaborators to the ticket.
 * [Multi LDAP Auth](https://github.com/philbertphotos/osticket-multildap-auth) - Plugin for multiple LDAP servers authentication and LDAP Sync.
 * [Prevent Autoscroll](https://github.com/clonemeagain/osticket-plugin-preventautoscroll) - Stops the agent view from scrolling down to the last message in the thread.
+* [Reporting](http://software-mods.com/reports.html) - Paid plugin for extensive reporting.
 * [Rewriter](https://github.com/clonemeagain/plugin-fwd-rewriter) - An osTicket plugin to rewrite incoming emails.
 
 
@@ -88,6 +89,7 @@
 * [Customization](http://osticket.com/customization) - Modify the ticket system to meet your needs.
 * [Installation](http://osticket.com/professional-installation) - Implementation, training, migration.
 * [Professional Hosting](https://supportsystem.com) - No install necessary.
+
 
 ## @Mentions
 * [Linux.com](https://www.linux.com/learn/osticket-help-desk-ticketing-done-right) - osTicket: Help Desk Ticketing Done Right.
