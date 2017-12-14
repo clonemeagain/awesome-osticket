@@ -81,7 +81,6 @@
 
 ## Development Resources
 * [Repo - Signals Docs](https://github.com/osTicket/osTicket/blob/develop/setup/doc/signals.md) - How signals work.
-* [Fetch Note Plugin](https://github.com/bkonetzny/osticket-fetch-note) - Demonstrates ticket hooks and configs, makes a CURL request and adds a Note to a ticket thread.
 * [Unofficial Plugin Development Guide](https://github.com/poctob/OSTEquipmentPlugin/wiki/Plugin-Development-Introduction) - Provides reverse-engineered instructions on how to develop an osTicket plugin.
 
 ## Professional Services
