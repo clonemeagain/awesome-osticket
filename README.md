@@ -49,6 +49,7 @@
 * [Prevent Autoscroll](https://github.com/clonemeagain/osticket-plugin-preventautoscroll) - Stops the agent view from scrolling down to the last message in the thread.
 * [Reporting](http://software-mods.com/reports.html) - Paid plugin for extensive reporting.
 * [Rewriter](https://github.com/clonemeagain/plugin-fwd-rewriter) - An osTicket plugin to rewrite incoming emails.
+* [OpenID for Microsoft](https://github.com/cbasolutions/osTicket-Plugins/tree/master/auth-openid-MS) - An osTicket plugin to enable authentication with Microsoft accounts.
 
 
 ### Third Party Integration 
@@ -67,6 +68,7 @@
 * [DMT Free Responsive for 1.9.12](http://osticket.com/forum/discussion/86735/dmt-free-responsive-theme-extended-basic-great-pumpkin-stable-1-0-for-osticket-1-9-12/p1) - Looks good. Awaiting upgrade to 1.10.
 * [osTicket Themes.com](https://osticketthemes.com/) - Commercial Theme developers.
 * [THEMEDOST](http://themedost.com/) - Commercial Themes.
+* [osTicket AWESOME](https://osticketawesome.com/) - Commercial theme for client and staff portals.
 
 ## Guides
 
