@@ -99,6 +99,7 @@
 * [Linux.com](https://www.linux.com/learn/osticket-help-desk-ticketing-done-right) - osTicket: Help Desk Ticketing Done Right.
 * [Test-Driven Conceptual Modelling case-study report](http://upcommons.upc.edu/bitstream/handle/2117/12369/osticket_report11.pdf?sequence=1) - from Universitat Politecnica De Catalulnya (in English).
 * [The Next Web - How to Build an Effective Heldesk](https://thenextweb.com/entrepreneur/2011/05/31/how/) - Article.
+* [Kitt Parker | Open Source Reviews Software  14 Nov 2017](https://digitalatria.com/osticket-open-source-help-desk/) - Review.
 
 Shout out to [Enhancesoft](http://enhancesoft.com) the makers of osTicket.
 
