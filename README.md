@@ -1,5 +1,6 @@
 # Awesome osTicket
 [![Build Status](https://travis-ci.org/clonemeagain/awesome-osticket.svg)](https://travis-ci.org/clonemeagain/awesome-osticket/)
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 *A curated list of awesome osTicket resources, plugins, tutorials and other nice things.*
 
