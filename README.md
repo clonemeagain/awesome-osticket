@@ -71,6 +71,7 @@
 * [osTicketResponsiveTheme.com](https://www.osticketresponsivetheme.com/) - Commercial theme for client & staff portals.
 * [osTicket Themes.com](https://osticketthemes.com/) - Commercial Theme developers.
 * [Themedost.com](http://themedost.com/) - Commercial Themes.
+* [osticketresponsivetheme.com](https://www.osticketresponsivetheme.com/) - Commercial Themes for Front- and Backend.
 
 
 ## Guides
