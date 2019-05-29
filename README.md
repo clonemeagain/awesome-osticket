@@ -60,6 +60,7 @@
 * [OpenID for Microsoft](https://github.com/cbasolutions/osTicket-Plugins/tree/master/auth-openid-MS) - An osTicket plugin to enable authentication with Microsoft accounts.
 * [Trello](https://github.com/kyleladd/OSTicket-Trello-Plugin) - Integrates Trello with osTicket.
 * [Slack](https://github.com/clonemeagain/osticket-slack) - Sends notifications of new and updated tickets to a Slack channel.
+* [Microsoft Teams] (https://github.com/ipavlovi/osTicket-Microsoft-Teams-plugin) - Sends notifications of new and updated tickets to a Microsoft Teams channel.
  
 
 ## Themes
