@@ -48,8 +48,8 @@
 * [Mentioner](https://github.com/clonemeagain/osticket-plugin-mentioner) - Finds Staff mentions in a thread and add's them as collaborators to the ticket.
 * [Multi LDAP Auth](https://github.com/philbertphotos/osticket-multildap-auth) - Plugin for multiple LDAP servers authentication and LDAP Sync.
 * [Prevent Autoscroll](https://github.com/clonemeagain/osticket-plugin-preventautoscroll) - Stops the agent view from scrolling down to the last message in the thread.
-* [Real Dynamic Lists](https://www.cartmega.com/software/osticket/real-dynamic-lists-for-osticket.html) - Populates your Custom Lists with live database items and keeps them always updated.
-* [Rejection Notifier](https://www.cartmega.com/software/osticket/rejection-notifier-for-osticket.html) - Auto-responder to rejected tickets, when the incoming email is from un-registered users.
+* [Real Dynamic Lists](https://www.cartmega.com/software/osticket/real-dynamic-lists-for-osticket.html) - Paid plugin that populates Custom Lists with live database items and keeps them updated.
+* [Rejection Notifier](https://www.cartmega.com/software/osticket/rejection-notifier-for-osticket.html) - Paid Auto-responder plugin for rejecting tickets, when incoming email is from un-registered users.
 * [Reporting](http://software-mods.com/reports.html) - Paid plugin for extensive reporting.
 * [Rewriter](https://github.com/clonemeagain/plugin-fwd-rewriter) - An osTicket plugin to rewrite incoming emails.
 
@@ -58,6 +58,7 @@
 
 * [Chrome Extension: osTicket Checker](https://chrome.google.com/webstore/detail/osticket-checker/kkcdfipbekoniikpigpklbioladkilig?hl=en) - Checks for new tickets.
 * [Jasper Reports](https://github.com/meatballcoder/osticket-jasper-plugin) - A Jasper Reports plugin for osTicket 1.9.
+* [Mattermost](https://github.com/Faust13/osticket-mattermost) - A plugin to send notifications to a Mattermost channel.
 * [Magento Contact Integration](https://github.com/CopeX/magento-osticket-api) - Plugin for Magento to send contact form details to osTicket via the API.
 * [OpenID for Microsoft](https://github.com/cbasolutions/osTicket-Plugins/tree/master/auth-openid-MS) - An osTicket plugin to enable authentication with Microsoft accounts.
 * [Trello](https://github.com/kyleladd/OSTicket-Trello-Plugin) - Integrates Trello with osTicket.
@@ -103,7 +104,6 @@
 * [Linux.com](https://www.linux.com/learn/osticket-help-desk-ticketing-done-right) - osTicket: Help Desk Ticketing Done Right.
 * [Test-Driven Conceptual Modelling case-study report](http://upcommons.upc.edu/bitstream/handle/2117/12369/osticket_report11.pdf?sequence=1) - from Universitat Politecnica De Catalulnya (in English).
 * [The Next Web - How to Build an Effective Heldesk](https://thenextweb.com/entrepreneur/2011/05/31/how/) - Article.
-* [Kitt Parker | Open Source Reviews Software  14 Nov 2017](https://digitalatria.com/osticket-open-source-help-desk/) - Review.
 
 Shout out to [Enhancesoft](http://enhancesoft.com) the makers of osTicket.
 
