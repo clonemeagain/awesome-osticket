@@ -14,18 +14,18 @@
 * [Forum](http://www.osticket.com/forum/) - Forum hosted by osTicket.
 
 ## Download/Install files
-* [Core Software v1.14.1](http://osticket.com/download/) - Get the latest release.
-* [Core Software v1.12.5](http://osticket.com/download/) - Legacy version.
+* [Core Software](http://osticket.com/download/) - Get the latest release.
 * [FAQ](http://osticket.com/faq) - Technical requirements etc.
 
 ## Translations/Language-Packs
 *Download into `/include/il8n` folder.*
+These are available in the download process now, simply select them when building your download package.
 
 * [Official List](http://osticket.com/download#linguas) - Select "language packs" for latest.
 * [Join the efforts](https://crowdin.com/project/osticket-official) - Help us translate osTicket for everyone.
 
 ## Plugins
-*Install into `/include/plugins` folder.*
+*Installed into `/include/plugins` folder.*
 
 ### Core Plugins
 *Developed by osTicket core developers.*
@@ -55,6 +55,7 @@
 
 
 ### Third Party Integration Plugins
+*Helps osTicket talk to other systems.*
 
 * [Chrome Extension: osTicket Checker](https://chrome.google.com/webstore/detail/osticket-checker/kkcdfipbekoniikpigpklbioladkilig?hl=en) - Checks for new tickets.
 * [Jasper Reports](https://github.com/meatballcoder/osticket-jasper-plugin) - A Jasper Reports plugin for osTicket 1.9.
@@ -83,15 +84,13 @@
 * [Search Forums](https://www.google.com.au/search?q=site%3Aosticket.com) - Many questions have already been answered.
 * [Youtube Installation Tutorial](https://www.youtube.com/watch?v=mblutpEstZ4) - Step by step demonstration of complete installation for v1.10.
 
-## Provisioning
+## Development Resources
 
 * [Docker osticket/osticket](https://hub.docker.com/search/?isAutomated=0&isOfficial=0&page=1&pullCount=0&q=osticket&starCount=1) - Docker images.
-* [Vagrant](https://github.com/clonemeagain/osticket-vagrant) - Provides a development environment for working with osTicket.
-
-## Development Resources
+* [Documentation Repo](https://github.com/osTicket/docs) - Help out with documentation.
 * [Repo - Signals Docs](https://github.com/osTicket/osTicket/blob/develop/setup/doc/signals.md) - How signals work.
 * [Unofficial Plugin Development Guide](https://github.com/poctob/OSTEquipmentPlugin/wiki/Plugin-Development-Introduction) - Provides reverse-engineered instructions on how to develop an osTicket plugin.
-* [Documentation Repo](https://github.com/osTicket/docs) - Help out with documentation.
+* [Vagrant](https://github.com/clonemeagain/osticket-vagrant) - Provides a development environment for working with osTicket.
 
 ## Professional Services
 
