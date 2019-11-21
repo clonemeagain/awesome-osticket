@@ -14,7 +14,7 @@
 * [Forum](http://www.osticket.com/forum/) - Forum hosted by osTicket.
 
 ## Download/Install files
-* [Core Software v1.14.1](http://osticket.com/download/ - Get the latest release.
+* [Core Software v1.14.1](http://osticket.com/download/) - Get the latest release.
 * [Core Software v1.12.5](http://osticket.com/download/) - Legacy version.
 * [FAQ](http://osticket.com/faq) - Technical requirements etc.
 
@@ -79,7 +79,7 @@
 
 ## Guides
 
-* [Wiki](http://osticket.com/wiki/Main_Page) - Has useful getting-started and configuration tips.
+* [Documentation](https://docs.osticket.com/) - Main documentation site.
 * [Search Forums](https://www.google.com.au/search?q=site%3Aosticket.com) - Many questions have already been answered.
 * [Youtube Installation Tutorial](https://www.youtube.com/watch?v=mblutpEstZ4) - Step by step demonstration of complete installation for v1.10.
 
@@ -91,6 +91,7 @@
 ## Development Resources
 * [Repo - Signals Docs](https://github.com/osTicket/osTicket/blob/develop/setup/doc/signals.md) - How signals work.
 * [Unofficial Plugin Development Guide](https://github.com/poctob/OSTEquipmentPlugin/wiki/Plugin-Development-Introduction) - Provides reverse-engineered instructions on how to develop an osTicket plugin.
+* [Documentation Repo](https://github.com/osTicket/docs) - Help out with documentation.
 
 ## Professional Services
 
@@ -104,6 +105,8 @@
 * [Linux.com](https://www.linux.com/learn/osticket-help-desk-ticketing-done-right) - osTicket: Help Desk Ticketing Done Right.
 * [Test-Driven Conceptual Modelling case-study report](http://upcommons.upc.edu/bitstream/handle/2117/12369/osticket_report11.pdf?sequence=1) - from Universitat Politecnica De Catalulnya (in English).
 * [The Next Web - How to Build an Effective Heldesk](https://thenextweb.com/entrepreneur/2011/05/31/how/) - Article.
+* [Blog](https://osticket.com/blog/) - Official blog of the creators.
+
 
 Shout out to [Enhancesoft](http://enhancesoft.com) the makers of osTicket.
 
