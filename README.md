@@ -40,6 +40,8 @@
 ### Community Plugins
 *Modifies how the software works, without changing it.*
 
+* [Real Dynamic Lists](https://www.cartmega.com/software/osticket/real-dynamic-lists-for-osticket.html) - populates your Custom Lists with live database items and keeps them always updated!
+* [Rejection Notifier](https://www.cartmega.com/software/osticket/rejection-notifier-for-osticket.html) - Auto-responder to rejected tickets, when the incoming email is from un-registered users of osTicket.
 * [Archiver](https://github.com/clonemeagain/osticket-plugin-archiver) - Archives tickets before delete, and allows for auto-pruning of old tickets.
 * [Attachment Preview](https://github.com/clonemeagain/attachment_preview) - Allows files attached to tickets to be embedded in the thread.
 * [Autocloser](https://github.com/clonemeagain/plugin-autocloser) - Automatically closes open tickets.
