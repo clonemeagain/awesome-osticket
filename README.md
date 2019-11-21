@@ -9,23 +9,23 @@
 
 * [GitHub repo](https://github.com/osTicket/osTicket) - Main repository.
 * [Main Website](http://osticket.com) - Main website.
+* [Documentation](https://docs.osticket.com/en/latest/) - Main Documentation site.
 * [Core Plugins](https://github.com/osTicket/osTicket-plugins) - Plugins written by core developers.
 * [Forum](http://www.osticket.com/forum/) - Forum hosted by osTicket.
 
 ## Download/Install files
-
-* [Core Software v1.10.4](http://osticket.com/download/go?dl=osTicket-v1.10.4.zip) - Get the latest release.
-* [Core Software v1.9.16](http://osticket.com/download/go?dl=osTicket-v1.9.16.zip) - Get the last 1.9.x release.
+* [Core Software](http://osticket.com/download/) - Get the latest release.
 * [FAQ](http://osticket.com/faq) - Technical requirements etc.
 
 ## Translations/Language-Packs
 *Download into `/include/il8n` folder.*
+These are available in the download process now, simply select them when building your download package.
 
 * [Official List](http://osticket.com/download#linguas) - Select "language packs" for latest.
 * [Join the efforts](https://crowdin.com/project/osticket-official) - Help us translate osTicket for everyone.
 
 ## Plugins
-*Install into `/include/plugins` folder.*
+*Installed into `/include/plugins` folder.*
 
 ### Core Plugins
 *Developed by osTicket core developers.*
@@ -55,6 +55,7 @@
 
 
 ### Third Party Integration Plugins
+*Helps osTicket talk to other systems.*
 
 * [Chrome Extension: osTicket Checker](https://chrome.google.com/webstore/detail/osticket-checker/kkcdfipbekoniikpigpklbioladkilig?hl=en) - Checks for new tickets.
 * [Jasper Reports](https://github.com/meatballcoder/osticket-jasper-plugin) - A Jasper Reports plugin for osTicket 1.9.
@@ -79,18 +80,17 @@
 
 ## Guides
 
-* [Wiki](http://osticket.com/wiki/Main_Page) - Has useful getting-started and configuration tips.
+* [Documentation](https://docs.osticket.com/) - Main documentation site.
 * [Search Forums](https://www.google.com.au/search?q=site%3Aosticket.com) - Many questions have already been answered.
 * [Youtube Installation Tutorial](https://www.youtube.com/watch?v=mblutpEstZ4) - Step by step demonstration of complete installation for v1.10.
 
-## Provisioning
+## Development Resources
 
 * [Docker osticket/osticket](https://hub.docker.com/search/?isAutomated=0&isOfficial=0&page=1&pullCount=0&q=osticket&starCount=1) - Docker images.
-* [Vagrant](https://github.com/clonemeagain/osticket-vagrant) - Provides a development environment for working with osTicket.
-
-## Development Resources
+* [Documentation Repo](https://github.com/osTicket/docs) - Help out with documentation.
 * [Repo - Signals Docs](https://github.com/osTicket/osTicket/blob/develop/setup/doc/signals.md) - How signals work.
 * [Unofficial Plugin Development Guide](https://github.com/poctob/OSTEquipmentPlugin/wiki/Plugin-Development-Introduction) - Provides reverse-engineered instructions on how to develop an osTicket plugin.
+* [Vagrant](https://github.com/clonemeagain/osticket-vagrant) - Provides a development environment for working with osTicket.
 
 ## Professional Services
 
@@ -104,6 +104,8 @@
 * [Linux.com](https://www.linux.com/learn/osticket-help-desk-ticketing-done-right) - osTicket: Help Desk Ticketing Done Right.
 * [Test-Driven Conceptual Modelling case-study report](http://upcommons.upc.edu/bitstream/handle/2117/12369/osticket_report11.pdf?sequence=1) - from Universitat Politecnica De Catalulnya (in English).
 * [The Next Web - How to Build an Effective Heldesk](https://thenextweb.com/entrepreneur/2011/05/31/how/) - Article.
+* [Blog](https://osticket.com/blog/) - Official blog of the creators.
+
 
 Shout out to [Enhancesoft](http://enhancesoft.com) the makers of osTicket.
 
