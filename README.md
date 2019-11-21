@@ -48,8 +48,8 @@
 * [Mentioner](https://github.com/clonemeagain/osticket-plugin-mentioner) - Finds Staff mentions in a thread and add's them as collaborators to the ticket.
 * [Multi LDAP Auth](https://github.com/philbertphotos/osticket-multildap-auth) - Plugin for multiple LDAP servers authentication and LDAP Sync.
 * [Prevent Autoscroll](https://github.com/clonemeagain/osticket-plugin-preventautoscroll) - Stops the agent view from scrolling down to the last message in the thread.
-* [Real Dynamic Lists](https://www.cartmega.com/software/osticket/real-dynamic-lists-for-osticket.html) - Paid plugin extending lists with database results.
-* [Rejection Notifier](https://www.cartmega.com/rejection-notifier-for-osticket.html) - Paid plugin to send rejection notices for non-user email.
+* [Real Dynamic Lists](https://www.cartmega.com/software/osticket/real-dynamic-lists-for-osticket.html) - Paid plugin that populates Custom Lists with live database items and keeps them updated.
+* [Rejection Notifier](https://www.cartmega.com/software/osticket/rejection-notifier-for-osticket.html) - Paid Auto-responder plugin for rejecting tickets, when incoming email is from un-registered users.
 * [Reporting](http://software-mods.com/reports.html) - Paid plugin for extensive reporting.
 * [Rewriter](https://github.com/clonemeagain/plugin-fwd-rewriter) - An osTicket plugin to rewrite incoming emails.
 
