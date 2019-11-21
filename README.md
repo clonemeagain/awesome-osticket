@@ -9,13 +9,13 @@
 
 * [GitHub repo](https://github.com/osTicket/osTicket) - Main repository.
 * [Main Website](http://osticket.com) - Main website.
+* [Documentation](https://docs.osticket.com/en/latest/) - Main Documentation site.
 * [Core Plugins](https://github.com/osTicket/osTicket-plugins) - Plugins written by core developers.
 * [Forum](http://www.osticket.com/forum/) - Forum hosted by osTicket.
 
 ## Download/Install files
-
-* [Core Software v1.10.4](http://osticket.com/download/go?dl=osTicket-v1.10.4.zip) - Get the latest release.
-* [Core Software v1.9.16](http://osticket.com/download/go?dl=osTicket-v1.9.16.zip) - Get the last 1.9.x release.
+* [Core Software v1.14.1](http://osticket.com/download/ - Get the latest release.
+* [Core Software v1.12.5](http://osticket.com/download/) - Legacy version.
 * [FAQ](http://osticket.com/faq) - Technical requirements etc.
 
 ## Translations/Language-Packs
