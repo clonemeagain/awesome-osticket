@@ -56,6 +56,7 @@
 
 * [Chrome Extension: osTicket Checker](https://chrome.google.com/webstore/detail/osticket-checker/kkcdfipbekoniikpigpklbioladkilig?hl=en) - Checks for new tickets.
 * [Jasper Reports](https://github.com/meatballcoder/osticket-jasper-plugin) - A Jasper Reports plugin for osTicket 1.9.
+* [Mattermost](https://github.com/Faust13/osticket-mattermost) - A plugin to send notifications to a Mattermost channel.
 * [Magento Contact Integration](https://github.com/CopeX/magento-osticket-api) - Plugin for Magento to send contact form details to osTicket via the API.
 * [OpenID for Microsoft](https://github.com/cbasolutions/osTicket-Plugins/tree/master/auth-openid-MS) - An osTicket plugin to enable authentication with Microsoft accounts.
 * [Trello](https://github.com/kyleladd/OSTicket-Trello-Plugin) - Integrates Trello with osTicket.
