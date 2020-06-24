@@ -45,6 +45,7 @@ These are available in the download process now, simply select them when buildin
 * [Autocloser](https://github.com/clonemeagain/plugin-autocloser) - Automatically closes open tickets.
 * [Fetch Note](https://github.com/bkonetzny/osticket-fetch-note) - Automatically fetch additional note content on ticket creation.
 * [Field Radio Buttons](https://github.com/Micke1101/OSTicket-plugin-field-radiobuttons) - Enables the use of HTML form element Radio Buttons.
+* [File Drive](https://github.com/akshaynikhare/FileDrive) - Integrate file sharing facilities like Google Drive, OneDrive, Dropbox
 * [Mentioner](https://github.com/clonemeagain/osticket-plugin-mentioner) - Finds Staff mentions in a thread and add's them as collaborators to the ticket.
 * [Multi LDAP Auth](https://github.com/philbertphotos/osticket-multildap-auth) - Plugin for multiple LDAP servers authentication and LDAP Sync.
 * [Prevent Autoscroll](https://github.com/clonemeagain/osticket-plugin-preventautoscroll) - Stops the agent view from scrolling down to the last message in the thread.
