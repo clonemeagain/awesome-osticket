@@ -53,6 +53,8 @@ These are available in the download process now, simply select them when buildin
 * [Rejection Notifier](https://www.cartmega.com/software/osticket/rejection-notifier-for-osticket.html) - Paid Auto-responder plugin for rejecting tickets, when incoming email is from un-registered users.
 * [Reporting](http://software-mods.com/reports.html) - Paid plugin for extensive reporting.
 * [Rewriter](https://github.com/clonemeagain/plugin-fwd-rewriter) - An osTicket plugin to rewrite incoming emails.
+* [osTicket-telegram](https://github.com/SUNsung/osTicket-telegram) - Telegram notifications about new tickets.
+* [osTicket_vk_and_telegram](https://github.com/Vladislav-Shi/osTicket_vk_and_telegram) - Bot for VK and Telegram.
 
 
 ### Third Party Integration Plugins
