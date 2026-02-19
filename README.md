@@ -53,6 +53,7 @@ These are available in the download process now, simply select them when buildin
 * [Rejection Notifier](https://www.cartmega.com/software/osticket/rejection-notifier-for-osticket.html) - Paid Auto-responder plugin for rejecting tickets, when incoming email is from un-registered users.
 * [Reporting](http://software-mods.com/reports.html) - Paid plugin for extensive reporting.
 * [Rewriter](https://github.com/clonemeagain/plugin-fwd-rewriter) - An osTicket plugin to rewrite incoming emails.
+* [SpamBlock](https://github.com/rmaclean/osticket-spamblock) - A plugin which does spam checking on incoming emails.
 
 
 ### Third Party Integration Plugins
