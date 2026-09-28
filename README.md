@@ -40,6 +40,7 @@ These are available in the download process now, simply select them when buildin
 ### Community Plugins
 *Modifies how the software works, without changing it.*
 
+* [API Plus](https://github.com/HairyDuck/osticket-api-plus) - Extends the stock HTTP API to list, view, reply, assign, update status/priority/topic, and expose catalogues (no core patches).
 * [Archiver](https://github.com/clonemeagain/osticket-plugin-archiver) - Archives tickets before delete, and allows for auto-pruning of old tickets.
 * [Attachment Preview](https://github.com/clonemeagain/attachment_preview) - Allows files attached to tickets to be embedded in the thread.
 * [Autocloser](https://github.com/clonemeagain/plugin-autocloser) - Automatically closes open tickets.
