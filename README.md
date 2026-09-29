@@ -44,6 +44,7 @@ These are available in the download process now, simply select them when buildin
 * [Archiver](https://github.com/clonemeagain/osticket-plugin-archiver) - Archives tickets before delete, and allows for auto-pruning of old tickets.
 * [Attachment Preview](https://github.com/clonemeagain/attachment_preview) - Allows files attached to tickets to be embedded in the thread.
 * [Autocloser](https://github.com/clonemeagain/plugin-autocloser) - Automatically closes open tickets.
+* [Domain Gate](https://github.com/HairyDuck/osticket-domain-gate) - Allowlist/blocklist new tickets by sender domain, with canned rejection replies and organisation-domain recognition (no core patches).
 * [Fetch Note](https://github.com/bkonetzny/osticket-fetch-note) - Automatically fetch additional note content on ticket creation.
 * [Field Radio Buttons](https://github.com/Micke1101/OSTicket-plugin-field-radiobuttons) - Enables the use of HTML form element Radio Buttons.
 * [File Drive](https://github.com/akshaynikhare/FileDrive) - Integrate file sharing facilities like Google Drive, OneDrive, Dropbox
@@ -54,6 +55,7 @@ These are available in the download process now, simply select them when buildin
 * [Rejection Notifier](https://www.cartmega.com/software/osticket/rejection-notifier-for-osticket.html) - Paid Auto-responder plugin for rejecting tickets, when incoming email is from un-registered users.
 * [Reporting](http://software-mods.com/reports.html) - Paid plugin for extensive reporting.
 * [Rewriter](https://github.com/clonemeagain/plugin-fwd-rewriter) - An osTicket plugin to rewrite incoming emails.
+* [Statuspage](https://github.com/HairyDuck/osticket-statuspage) - Native Atlassian Statuspage home panel on the client portal (no iframe), with optional degraded banner (no core patches).
 
 
 ### Third Party Integration Plugins
